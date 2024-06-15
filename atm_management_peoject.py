@@ -1,11 +1,16 @@
 """
+id = 1234
+password = ayan1234,
+you can login with this id and password, also you can register and login with own id
+"""
 
+
+"""
 functionalities: 
 
 section 1 : login, registration
 
 section 2 : balance check, withdraw, deposit, transaction statement, logout
-
 """
 
 from datetime import datetime
